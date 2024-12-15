@@ -1,0 +1,13 @@
+export const MAPPING_TYPES = {
+    CLICK: 'KMT_CLICK',
+    CLICK_TWICE: 'KMT_CLICK_TWICE',
+    CLICK_MULTI: 'KMT_CLICK_MULTI',
+    DRAG: 'KMT_DRAG',
+    STEER_WHEEL: 'KMT_STEER_WHEEL',
+    MOUSE_MOVE: 'KMT_MOUSE_MOVE'
+};
+
+export const DEFAULT_CONFIG = {
+    SWITCH_KEY: 'Key_Control',
+    PADDING: 0.002
+};
